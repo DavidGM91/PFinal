@@ -1,2 +1,5 @@
 # Practica VC Final
- Project for VC in FIB UPC
+ Character detection project for VC in FIB UPC
+
+ David Gonzales
+ Afonso Branco
